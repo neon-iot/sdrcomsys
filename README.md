@@ -42,7 +42,7 @@ The main tools of the course are:
 - Python.
 Also, the course will be based on the following SDRs:
 - ADALM PLUTO SDR
--RTL2832U
+- RTL2832U
 
 The SDR devices will be available in practical classes and for remote access.
 
