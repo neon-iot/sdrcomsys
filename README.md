@@ -40,6 +40,7 @@ To take this course you need to have knowledge of the following topics:
 The main tools of the course are:
 - GNU Radio Companion.
 - Python.
+
 Also, the course will be based on the following SDRs:
 - ADALM PLUTO SDR
 - RTL2832U
