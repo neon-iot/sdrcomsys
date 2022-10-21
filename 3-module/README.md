@@ -1,3 +1,3 @@
 # Module 3
 
-## About this module
+## Implementación en SDR de sistemas de modulación contínua
