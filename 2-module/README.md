@@ -1,3 +1,3 @@
 # Module 2
 
-## About this module
+## Introducción y primeros pasos en sistemas SDR
