@@ -3,10 +3,13 @@
 The main motivation of the course is to train professionals and students in the handling of Software Defined Radio (SDR) devices. 
 
 The course is focussed on SDR not only from the programming point of view, but also from the complementary hardware for its operation. Which can include filters, low noise amplifiers, power amplifiers, splitters, antennas, and impedance matches. The idea is that the course is complemented with others offered by our University. In this way, the SDR devices and complementary hardware can be used in the course hands on IoT, while the design details of the hardware can be developed in the course of microwave design.
-I consider important that the complementary hardware can be studied due to it is very useful not only to optimize the performance of the communication system, but also to avoid damaging the SDR devices.
+
+We consider important that the complementary hardware can be studied due to it is very useful not only to optimize the performance of the communication system, but also to avoid damaging the SDR devices.
 The main tool for simulation and programming will be the GNU Radio Companion. This open source tool has a large number of libraries and drivers. But in addition, it allows to implement new libraries in an agile way according to the user's needs.
 
 Throughout the course, attendees will learn by solving problems, whether from the academic field (such as degree or PhD thesis), as well as from the business field.
+
+## The material of this course is available in Spanish and English
 
 ## Main topics
 The structure of the course is  :
@@ -24,7 +27,7 @@ The structure of the course is  :
     - Remote Access.
 - Digital communications systems.
 - Communications systems in the presence of noise.
-- Advanced communications systems: case studies: AIS, ADS-B, ACARS.
+- Advanced communications systems: case studies: AIS, ADS-B, ACARS, NOAA reception
 - Final project.
 
 
