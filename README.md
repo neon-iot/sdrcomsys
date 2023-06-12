@@ -10,6 +10,9 @@ The main tool for simulation and programming will be the GNU Radio Companion. Th
 Throughout the course, attendees will learn by solving problems, whether from the academic field (such as degree or PhD thesis), as well as from the business field.
 
 ## The material of this course is available in Spanish and English
+The slides which contains the Lectures can be found in the "SLIDES" folder.
+The proposed schedule of the course can be found in the "DOCS" folder. 
+
 
 ## Main topics
 The structure of the course is  :
