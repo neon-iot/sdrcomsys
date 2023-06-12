@@ -11,7 +11,7 @@ Throughout the course, attendees will learn by solving problems, whether from th
 
 ## The material of this course is available in Spanish and English
 The slides which contains the Lectures can be found in the "SLIDES" folder.
-The proposed schedule of the course can be found in the "DOCS" folder. 
+While the proposed schedule of the course can be found in the "DOCS" folder. 
 
 
 ## Main topics
